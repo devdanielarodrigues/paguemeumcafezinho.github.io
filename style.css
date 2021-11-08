@@ -486,8 +486,12 @@ img[alt ="pause-icon"] {
 .mercadopago-button{
     width: 100%;
     height: 50px; ;
-    font-size: 15px;
-    background: rgba(29, 252, 129, 0.774);
+    font-family: "Helvetica Neue", Arial, sans-serif;
+    font-size: 20px;
+    line-height: 2.7142857142857144;
+    background: #20fa94;
+    border-radius: 0.2857142857142857
+    
 }
 
 
