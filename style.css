@@ -42,7 +42,7 @@ body{
 
 #links{
     max-width: 675px;
-    width: auto;
+    width: 100%;
     display: block;
     margin: 27px auto;
 }
@@ -52,7 +52,7 @@ body{
     color: var(--bgColor);
     font-family: var(--font);
     text-align: center;
-    margin-bottom: 20px;
+    margin-bottom: 50px;
     padding: 17px;
     text-decoration: none;
     font-size: 1rem;
@@ -482,4 +482,11 @@ img[alt ="pause-icon"] {
     display: none !important ;
 
 }
+
+.mercadopago-button{
+    width: 100%;
+    height: 50px; ;
+    font-size: 15px;
+}
+
 
