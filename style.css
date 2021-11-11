@@ -494,4 +494,14 @@ img[alt ="pause-icon"] {
     
 }
 
+.texto{
+color: var( --e-global-color-c080a04 );
+font-family: "DM Serif Display", Sans-serif;
+font-size: 20px;
+font-weight: 500;
+line-height: 22px;
+text-align: center;
+
+}
+
 
